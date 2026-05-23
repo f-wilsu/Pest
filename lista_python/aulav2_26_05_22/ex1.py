@@ -33,7 +33,7 @@ print(f"A média do aluno é: {media}")
 
 print("---------jeitodothomaz---------")
 
-# Jeito do Thoma
+# Jeito do Thomaz
 
 def calcula_media(L : list):
     acc = 0
